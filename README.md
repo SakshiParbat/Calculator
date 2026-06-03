@@ -40,8 +40,9 @@ Calculator/
 
 ## 📸 Screenshots
 
-*Add screenshots here.*
+<img width="732" height="614" alt="image" src="https://github.com/user-attachments/assets/2e73b921-c314-4e97-812c-b81ffc0f1f37" />
+
 
 ## 🔗 Live Demo
 
-*Add deployed link here.*
+[*Add deployed link here.*](https://calculator-9f0dc.web.app/)
